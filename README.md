@@ -36,6 +36,17 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
+# 🚀 Featured Projects
+
+### 🟢 MeshPay
+Offline-first UPI payment system using Java, Spring Boot, BLE mesh networking, AES-256-GCM, RSA-OAEP and exactly-once settlement.
+
+### 🏠 SmartHostel
+Multi-tenant hostel management platform built with React, TypeScript, Node.js, PostgreSQL, Redis, Docker and role-based access control.
+
+### 🛡️ NetShield-DPI
+C++ multi-threaded Layer-7 Deep Packet Inspection engine with TLS SNI, HTTP Host, DNS extraction and stateful flow tracking.
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=leelaakash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
